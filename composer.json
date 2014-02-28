@@ -1,5 +1,5 @@
 {
-    "name": "maciekish/PHPUpload",
+    "name": "maciekish/php-upload",
     "description": "A quick way to figure out the upload limit in your environment.",
     "license": "MIT",
     "authors": [
