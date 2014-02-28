@@ -1,0 +1,15 @@
+{
+    "name": "maciekish/PHPUpload",
+    "description": "A quick way to figure out the upload limit in your environment.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Maciej Swic",
+            "email": "m@maciekish.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+
+    }
+}
